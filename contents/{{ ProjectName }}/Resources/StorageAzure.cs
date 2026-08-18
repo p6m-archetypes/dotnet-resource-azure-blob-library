@@ -1,7 +1,7 @@
 using Azure.Storage.Blobs;
 using Azure.Storage;
 
-namespace {{ PrefixName }}{{ SuffixName }}.Resources;
+namespace {{ ProjectName }}.Resources;
 
 public static class StorageAzureExtensions
 {
